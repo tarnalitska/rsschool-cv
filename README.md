@@ -1,1 +1,1 @@
-https://tarnalitska.github.io/rsschool-cv/cv
+https://tarnalitska.github.io/rsschool-cv/cv.md
